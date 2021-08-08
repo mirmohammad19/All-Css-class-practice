@@ -1,0 +1,42 @@
+* {
+    margin: 0px;
+}
+
+body {
+    background-color: grey;
+}
+.notice{
+
+    width: 20px;
+    height: 200px;
+    background-color: brown;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    margin: auto;
+    transition: 0.5s;
+    cursor: pointer;
+
+}
+
+.notice:hover{
+    width: 100px;
+}
+.post{
+
+    width: 400px;
+    padding: 50px 100px;
+    background-color: white;
+    margin: 10px auto;
+}
+
+.post h2 {
+    font-family: sigmar-one;
+}
+
+.post p {
+
+    font-family: candara;
+    margin-top: 20px; 
+}

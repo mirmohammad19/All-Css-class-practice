@@ -1,0 +1,23 @@
+* {
+    margin: 0px;
+
+}
+
+.box {
+    width: 500px;
+    height: 500px;
+    margin: 200px auto 0px;
+    /* background-color: red;
+    background-image: url("../img/QT-Baby.jpg"); */
+    /* background-size: 150px 150px; */
+    /* background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top left; */
+    /* background-position: center center; */
+    /* background-attachment: fixed; */
+
+    background: red url("../img/QT-Baby.jpg") center center no-repeat;
+    background-size: cover;
+
+
+}

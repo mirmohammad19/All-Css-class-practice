@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+
+}
+
+body {
+    background-color: grey;
+
+}
+
+.box {
+    width: 400px;
+    height: 400px;
+    margin: 200px auto 0px;
+    /* background-color: #000000; */
+    /* background-color: #ffffff; */
+    background-color: #F1ECE5;
+    
+}

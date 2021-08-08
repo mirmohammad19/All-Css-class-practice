@@ -1,0 +1,31 @@
+@font-face {
+    font-family: "bangla";
+    src: url("../fonts/WindSong-Regular.ttf");
+}
+
+* {
+    margin: 0px;
+}
+
+body{
+    background-color: grey;
+}
+
+.post {
+    width: 500px;
+    margin: 200px auto 0px;
+}
+
+.post h2 {
+    
+    font-family: 'bangla', cursive;
+    font-size: 60px;
+    color: yellow;
+
+}
+
+.post p {
+    font-family: 'bangla', cursive;
+    font-size: 30px;
+    color: white;
+}

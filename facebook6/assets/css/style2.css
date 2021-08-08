@@ -1,0 +1,13 @@
+* {
+    margin: 0px;
+  }
+  
+ 
+   
+  .post {
+    background-color: red;
+    width: 700px;
+    height: 700px;
+    margin: 50px auto 100px;
+    box-shadow:  23px 6px 11px black;
+  }

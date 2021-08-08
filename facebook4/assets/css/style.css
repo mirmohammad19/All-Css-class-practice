@@ -1,0 +1,15 @@
+
+
+p:nth-child(1){
+  font-family: serif;
+  background-color: black;
+  color: white;
+
+}
+
+p:nth-child(4){
+  font-family: serif;
+  background-color: black;
+  color: white;
+
+}

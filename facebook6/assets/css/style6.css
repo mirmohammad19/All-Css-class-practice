@@ -1,0 +1,59 @@
+* {
+    margin: 0px;
+
+}
+
+.baby-1 {
+    
+    width: 100%;
+    height: 500px;
+    background-color: purple;
+
+}
+
+.baby-2 {
+    
+    width: 100%;
+    height: 300px;
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.7)) ,url("../img/QT-Baby.jpg");
+    /* background-size: 100% auto; */
+    background-size: cover;
+    /* background-attachment: scroll; */
+    background-attachment: fixed;
+    text-align: center;
+    overflow: hidden;
+
+
+}
+
+.baby-3 {
+    
+    width: 100%;
+    height: 500px;
+    background-color: purple;
+
+}
+
+.baby-2 h2 {
+    text-align: center;
+    font-family: sigmar one;
+    font-weight: normal;
+    color: #fff;
+    margin-top: 70px;
+}
+
+.baby-2 p {
+    text-align: center;
+    font-family: sigmar one;
+    color: #fff;
+}
+
+.baby-2 a {
+    text-decoration: none;
+    background-color: #fff;
+    color: #000;
+    padding: 10px 20px;
+    display: inline-block;
+    margin-top: 20px;
+
+}

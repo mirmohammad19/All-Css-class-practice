@@ -1,0 +1,16 @@
+* {
+    margin: 0px;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+    background-color: #000;
+    /* display: inline; in inline w, h, p, m wont work */
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    padding: 50px;
+    margin: 100px;
+    
+}

@@ -1,0 +1,37 @@
+* {
+  margin: 0px;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  border-radius: 50%;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  animation: dowr 1s infinite;
+}
+
+@keyframes dowr {
+  0% {
+    top: 0px;
+    left: 0px;
+  }
+  25% {
+    top: 0px;
+    left: 700px;
+  }
+  50% {
+    top: 500px;
+    left: 700px;
+  }
+  75% {
+    top: 500px;
+    left: 0px;
+  }
+  100% {
+    top: 0px;
+    left: 0px;
+  }
+}

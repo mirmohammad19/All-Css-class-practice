@@ -1,0 +1,14 @@
+* {
+    margin: 0px;
+}
+
+img {
+    width: 300px;
+    /* float: left; */
+    float: right;
+}
+
+p {
+    /* clear: left; */
+    clear: both;
+}

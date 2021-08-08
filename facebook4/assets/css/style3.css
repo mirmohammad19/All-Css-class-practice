@@ -1,0 +1,11 @@
+h1 {
+    text-align: center;
+    background-color: white;
+    color: red;
+    font-size: 40px;
+}
+
+h1 span {
+    color: black;
+
+}

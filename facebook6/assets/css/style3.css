@@ -1,0 +1,14 @@
+* {
+    margin: 0px;
+
+}
+
+.box {
+    width: 500px;
+    height: 500px;
+    margin: 200px auto 0px;
+    background-color: red;
+    
+
+
+}

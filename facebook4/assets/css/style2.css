@@ -1,0 +1,15 @@
+
+
+p:nth-child(odd){
+    font-family: serif;
+    background-color: black;
+    color: white;
+  
+  }
+  
+  p:nth-child(even){
+    font-family: serif;
+    background-color: red;
+    color: white;
+  
+  }

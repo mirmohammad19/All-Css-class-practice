@@ -1,0 +1,27 @@
+* {
+    margin: 0px;
+}
+
+.box-1 {
+
+    
+    height: 200px;
+    background-color: red;
+
+}
+
+.box-2 {
+
+    
+    height: 200px;
+    background-color: green;
+
+}
+
+.box-3 {
+
+    
+    height: 200px;
+    background-color: purple;
+
+}

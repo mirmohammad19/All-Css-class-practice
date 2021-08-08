@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+    background-color: white;
+    color: red;
+    font-size: 40px;
+}
+
+h1 span {
+    font-size: 100px;
+    color: black;
+    vertical-align: top;
+}

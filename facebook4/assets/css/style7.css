@@ -1,0 +1,52 @@
+.box {
+     width: 100px;
+     height: 200px;
+     border: 30px solid red;
+}
+
+.box2 {
+    width: 100px;
+    height: 200px;
+    border: 30px dotted green;
+
+}
+
+.box3 {
+    width: 100px;
+    height: 200px;
+    border: 30px dashed red;
+}
+
+.box4 {
+    width: 100px;
+    height: 200px;
+    border: 30px double red;
+}
+
+.box5 {
+    width: 100px;
+    height: 200px;
+    border: 30px groove red;
+}
+
+.box6 {
+    width: 100px;
+    height: 200px;
+    border-top: 30px solid red;
+    border-bottom: 30px solid green;
+    border-left: 30px solid blue;
+    border-right: 30px solid gold;
+
+
+}
+
+.box7 {
+    width: 100px;
+    height: 200px;
+    border-width: 30px;
+    border-style: solid;
+    border-color: blue;
+    
+
+
+}

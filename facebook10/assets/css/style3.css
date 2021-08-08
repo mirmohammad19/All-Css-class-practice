@@ -1,0 +1,62 @@
+* {
+    margin: 0px;
+}
+
+.box {
+    width: 300px;
+    height: 300px;
+    background-color: red;
+    margin: 200px auto 0px;
+    background-image: url("../img/t1.jpg");
+    background-size: cover;
+    background-position: center center;
+    border: 10px solid white;
+    box-shadow: 0px 0px 5px rgba(0,0,0,0.5);
+    cursor: pointer;
+    transition: 1s;
+}
+
+.box:hover{
+    /* transform: rotate(90deg); */
+    /* transform: rotateX(-180deg); */
+    /* transform: scale(.5); */
+    /* transform: scale(.5) rotate(180deg); */
+    /* transform: skew(45deg); */
+    transform: translate(-180px, 0px);
+}
+
+.post{
+
+    width: 500px;
+    margin: 100px auto 0px;
+    padding: 100px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.3);
+
+}
+
+.post img {
+    width: 100px;
+    transition: 2s;
+    cursor: pointer;
+
+}
+
+.post h2 {
+
+    font-family: WindSong;
+
+}
+
+.post p {
+
+    font-family: WindSong;
+
+}
+
+.post img:hover {
+
+    transform: translate(0px, 100px);
+     
+
+}
+

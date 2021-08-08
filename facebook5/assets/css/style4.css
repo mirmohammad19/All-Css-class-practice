@@ -1,0 +1,42 @@
+* {
+    margin: 0px;
+}
+
+
+p {
+    text-align: justify;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 100px;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+.box2 {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.box3 {
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+}
+
+.web {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin-left: auto; 
+    margin-right: auto;
+    
+    
+}

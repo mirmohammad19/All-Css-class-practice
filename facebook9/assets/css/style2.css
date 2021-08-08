@@ -1,0 +1,52 @@
+* {
+    margin: 0px;
+}
+
+.box {
+    width: 500px;
+    height: 500px;
+    border: 5px solid black;
+    margin: 100px auto 0px;
+    /* text-align: center; */
+    /* text-align: left; */
+    text-align: right;
+
+}
+
+.box .box-item {
+    
+    width: 100px;
+    height: 100px;
+    /* display: block;  if display: block then use 
+    margin to get it in center.. */
+   /* margin: 0px auto; */
+    /* if display: block then use float: left/right
+     to get it in left or right.*/
+
+   
+   display: inline-block; /* if display: inline block 
+   then use text-align: center in parent div to get it 
+   in center */
+   /* if display: inline-block then use 
+   text-align: left/right to get it in left or right. */
+
+}
+
+.box .box-item:nth-child(1) {
+    
+    background-color: red; 
+
+
+}
+
+.box .box-item:nth-child(2) {
+    
+    background-color: black;  
+
+}
+
+.box .box-item:nth-child(3) {
+    
+    background-color: green;  
+
+}

@@ -1,0 +1,31 @@
+* {
+    margin: 0px;
+
+}
+
+.box {
+ 
+   width: 400px;
+   height: 400px;
+   margin: 50px auto 0px;
+   /* background: linear-gradient(red,yellow); */
+   /* background: radial-gradient(red,yellow); */
+   background: linear-gradient(to bottom,red,yellow,green);
+
+
+}
+
+.box2 {
+ 
+    width: 400px;
+    height: 400px;
+    margin: 50px auto 0px;
+    /* background: linear-gradient(red,yellow); */
+    /* background: radial-gradient(red,yellow); */
+    background: linear-gradient(to top,red,yellow,green);
+    /* background: linear-gradient(to left,red,yellow,green);
+    background: linear-gradient(to right,red,yellow,green); */
+    
+ 
+ }
+

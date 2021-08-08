@@ -1,0 +1,14 @@
+* {
+    margin: 0px;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+    background-color: #000;
+    display: block; /* width will b 100% */
+    /* display: table; width wont b 100% */
+    margin-top: 20px;
+    padding: 20px;
+    
+}

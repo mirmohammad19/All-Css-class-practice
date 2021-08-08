@@ -1,0 +1,40 @@
+* {
+  margin: 0px;
+}
+
+body {
+  background-color: grey;
+}
+ 
+.post {
+  background-color: black;
+  width: 700px;
+  margin: 50px auto 100px;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  border-left: 1px solid red;
+
+
+}
+
+.post h2 {
+
+  font-size: 40px;
+  color: white;
+  font-family: impact;
+
+
+}
+
+.post img {
+  width: 400px;
+}
+
+.post p {
+  color: yellow;
+  font-family: candara;
+  margin-top: 40px;
+  text-align: justify;
+}
